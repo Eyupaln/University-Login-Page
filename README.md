@@ -17,4 +17,4 @@ If you have any questions or suggestions, feel free to reach out:
 Sorularınız veya önerileriniz varsa iletişime geçmekten çekinmeyin:
 **Email:** eypaln65@gmail.com
 
-[Uploading Ekran görüntüsü 2025-11-01 142216.png…]()
+![Login Page Preview](public/4226.png)
