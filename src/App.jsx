@@ -43,9 +43,9 @@ function App() {
           </div>
         </div>
 
-        {/* Sağ div - col-5 */}
+     
         <div className="w-full md:w-5/12 bg-white p-8 rounded-xl flex flex-col">
-          {/* Giriş formu gelecek */}
+         
           <div className="flex-1 flex items-center justify-center">
             <Login />
           </div>
