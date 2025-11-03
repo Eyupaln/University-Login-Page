@@ -12,7 +12,7 @@ If you have any questions or suggestions, feel free to reach out:
 
 Üniversitem için React ve Tailwind CSS kullanarak tasarladığım basit ve duyarlı (responsive) bir giriş sayfası. 
  
-📧 İletişim 
+ İletişim 
 
 Sorularınız veya önerileriniz varsa iletişime geçmekten çekinmeyin:
 **Email:** eypaln65@gmail.com
